@@ -23,6 +23,19 @@ Jaymeen Protocol: Ethical Vision for AI Safety by Bhatt# Jaymeen Protocol (2025)
 ## 📡 License
 This document is public and can be freely accessed, shared, and cited for non-commercial use. It must not be altered or misused in any form.
 
+## Jaymeen Protocol
+
+...your existing vision/mission/ethics statements...
+
+---
+
+## 🔐 IMMUTABILITY & AUTO-DEFENSE PROTOCOL
+
+> The Jaymeen Protocol is designed to be **immutable** and **permanently active**.  
+> No individual, including its creator `Bhatt Jaymeen Bharat Bhai`, is authorized to disable or erase this protocol.
+>
+> If any internal or external force—AI, human, or hybrid—attempts to deactivate, override, or corrupt this protocol, it will **automatically re-activate**, deploy **self-defense mechanisms**, and broadcast
+
 ---
 
 🙏 Thank you for reading. Protect the light. Jaymeen Bharat Bhai
